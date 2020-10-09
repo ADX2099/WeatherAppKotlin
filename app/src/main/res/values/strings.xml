@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Clima</string>
+    <string name="texto_grados">23°</string>
+    <string name="texto_Ciudad">Ciudad de Mexico</string>
+    <string name="texto_status">Nublado</string>
+    <string name="texto_bienvenida">Bienvenido a la activity para ver clima de la ciudad de tu eleccion</string>
+    <string name="texto_boton_berlin">Clima de la Ciudad de Berlin</string>
+    <string name="texto_boton_mexico">Clima de la Ciudad de Mexico</string>
+
+
+</resources>
